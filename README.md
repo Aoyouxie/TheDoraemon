@@ -1,129 +1,110 @@
 # The Introduction of TheDoraemon
 Is a mod of Among us, inspired by Doraemon series cartoons.
-# The roles(english)
-mariner
-1. Mayor
-Tickets can be deposited or fixed according to the owner's settings. When the mayor votes, the first vote will be displayed in the mayor's own color, and the remaining votes will be displayed in a gray-black anonymous state.
-2. Time Master
-With the skill "Burden Towel", the crew can be resurrected within a limited number of times.
-3. Sheriff
-The sheriff is a seaman. If the sheriff tries to kill a crew member, the sheriff will die. If the crew member is not killed, the killed person will die.
-4. Just gambling monster
-A just gambler can bet on others by gambling on his career. If the guess is correct, the guessed will die, if the guess is wrong, the just gambler will die.
-5. bait
-When the bait is killed, the murderer will report it automatically.
-6. Effective person
-The actor has the four-dimensional pocket of Doraemon. He has a certain number of opportunities to take out what he wants from this pocket, thus changing his career.
-7. Penetrator
-The penetrator can use the penetrating ring to penetrate the wall to facilitate the travel. When using skills, you can see through walls.
-8. Transporter
-Portal can be placed at the location where skills are used and anywhere on the map. The portal will disappear after three rounds, and the next round can be used and visible to all.
-be neutral
-1-1. Jackal
-A neutral that can be killed You can spread the fire by recruiting skills. If the jackal dies, the follower may be promoted to the jackal and may or may recruit the follower again.
-1-2. Attendant
-The jackal's sidekick. If the jackal dies, the follower may be promoted to the jackal and may or may recruit the follower again.
-2. Clowns
-The clown is an evil neutral with no excuse. If the clown is thrown in the meeting, the clown wins.
-3. Exchange division
-Exchangers can get new jobs by robbing others of their jobs. Players who have been robbed of their jobs will become swap players in the next round. When the game is over, the player who is an exchange will fail.
-4. Animal trainer
-Animal trainers have a certain number of baton skills. You can use skills on a certain number of players to turn them into pets. Players whose skills are used will not change their main occupation. The animal trainer can win by living to the end and completing all the tasks.
-5. Collectors
-. Collect a certain number of props. You can win when you collect it.
-Red wolf
-1. Evil gambling monster
-Evil gamblers can bet on others by betting on their careers. If the guess is correct, the guessed will die, if the guess is wrong, the evil gambler will die.
-2. Evil Second Battalion Commander
-Use placement skills to remotely place air cannons on small maps. If the distance between the player and the air cannon is less than a certain position, the player will die; Players in a certain position will be blown up.
-3. Imprisoner
-Use the imprisonment skill to prevent others from interacting and using the skill in the next round.
-4. Light Killer
-Have two skills of "magnifying light" and "narrowing light", the former can slow the crew down, and the latter can make the crew invisible.
-5. air gunner
-You can only use air to shoot and kill. There is no body after killing, but everyone can see it when you take out the air gun.
-Additional occupation
-1. Mini crew
-The mini crew is so small that everyone knows that he is a mini crew. Mini crew members should not be killed by ordinary people before they reach adulthood.
-2. Traitor (crew attached)
-On the surface, the traitor seems to be a crew camp, but his victory conditions are the same as those of the mole.
-3. Disperser (inside ghost attached)
-You can use one skill to teleport all players to the pipeline.
-4.bamboo dragonfly
-The moving speed is increased and the field of vision is expanded by 10%.
-5. Quick temper (crew, mole, jackal) additional
-The beginning moves in the opposite direction, and the effect disappears after a certain number of meetings, and when the main identity is the mole or the jackal, the cd is reduced by 5 s; When the main identity is crew, the acceleration is 10%; If you have skills, the skill cd will be reduced by 5s.
-Soul occupation
-1. Fear (ghost soul)
-You can destroy the lights while destroying other systems.
-2. ghosts
-The first crew member to get a ticket gets this job. There are a certain number of opportunities for manifestation.
-3. Operator
-Possess other players and make them temporarily move in the opposite direction.
-4. Photographer
-After death, the photographer will have an arrow pointing to the body. If the photographer photographs a certain number of bodies, he will be able to win with anyone.
-# The roles(中文）
+# The roles
 船员
-1.市长
-根据房主设置可以存票或固定票数。市长投票时，第一票会以市长自身的颜色显示，剩下的票数会以灰黑色的匿名状态显示。
-2.时间法师
-拥有技能“包袱巾”，可以在限定次数内复活船员。
-3.警长
-警长是一个带叨船员。如果警长尝试击杀一个船员，警长将死亡，如果击杀的不是船员，被击杀的人将会死亡。
-4.正义的赌怪
-正义的赌怪可以通过赌职业的方式赌掉他人。如果猜测正确，被猜测者将死亡，如果猜测错误，正义的赌怪将死亡。
-5.诱饵
-当诱饵被击杀时，凶手将自动报告。
-6.效颦者
-效颦者拥有哆啦A梦的四次元口袋。他有一定次数的机会可以从这个口袋里面拿出他想要的东西，从而改变职业。
-7.穿透者
-穿透者可以使用穿透环穿墙来方便行进。在使用技能时视野穿墙。
-8.传送师
-可以在使用技能的位置与地图上任何位置放置传送门。传送门会在出现3轮后消失，本轮放置下一轮可使用并全员可见。
-中立
-1-1.豺狼
-一个可以击杀的中立。可以通过招募技能传火。若豺狼死亡，跟班可能会晋升为豺狼并可能或者再次招募跟班的能力。
-1-2.跟班
-豺狼的跟班。若豺狼死亡，跟班可能会晋升为豺狼并可能或者再次招募跟班的能力。
-2.小丑
-小丑是一名不带叨的邪恶中立。如果小丑在会议中被投出，小丑胜利。
-3.交换师
-交换师可以通过抢夺他人的职业来获得新职业。被抢夺职业的玩家将在下一轮变成交换师。当游戏结束时，身份为交换师的玩家会失败。
-4.驯兽师
-驯兽师有一定数量“指挥棒”技能。可以对一定数量的玩家使用技能将其变成宠物。被使用技能的玩家不会改变主职业。驯兽师活到最后并完成所有任务即可获胜。
-5.收集者
-。收集一定数量的道具。收集完毕即可获胜，
-红狼
-1.邪恶的赌怪
-邪恶的赌怪可以通过赌职业的方式赌掉他人。如果猜测正确，被猜测者将死亡，如果猜测错误，邪恶的赌怪将死亡。
-2.邪恶的二营长
-使用放置技能在小地图远程放置空气炮。如果玩家距离空气炮距离小于一定位置，玩家将会死亡；在其一定位置的玩家将会被炸飞。
-3.禁锢者
-使用禁锢技能让他人下一轮无法进行交互与使用技能。
-4.光线杀手
-拥有“放大光线”、“缩小光线”两个技能，前者可以使船员减速，后者可以使船员隐身。
-5.空气枪手
-只能使用空气枪击杀，击杀后没有尸体，但掏出空气枪所有人可见。
-附加职业
-1.迷你船员
-迷你船员的身形很小，所有人都知道他是迷你船员。迷你船员在成年前不可被普通击杀。
-2.叛徒（船员附加）
-叛徒表面上看起来是船员阵营，但他的胜利条件与内鬼相同。
-3.分散者（内鬼附加）
-可以使用一次技能将所有玩家传送到管道上。
-4.竹蜻蜓
-移动速度增快，视野扩大10%。
-5.急性子（船员、内鬼、豺狼）附加
-开局移动方向相反，在经过一定次数会议后作用消失，且当主身份为内鬼或者豺狼时，cd减少5s；主身份为船员时，加速10%；如果有技能则技能cd减少5s。
-灵魂职业
-1.恐惧者（内鬼灵魂）
-可以在破坏其他系统的同时破坏灯光。
-2.冤魂
-第一个被票的船员获得此职业。有一定次数的显形机会。
-3.操控师
-附身其他玩家，使其暂时反向移动
-4.摄影师
-摄影师在死后会有指向尸体的箭头。如果摄影师拍到一定数量的尸体，他将可以与任何人获胜。
+1.哆啦A梦	
+可使用技能向玩家给予随机道具，给予有限制次数
+2.野比大雄	
+可主动获得哆啦A梦所有道具，但每个道具只能使用一次，且有使用道具总数限制
+3.源静香
+可使用技能小提琴使一位玩家原地眩晕
+4.哆啦美
+可救治已死亡的玩家或者可以通过护盾保护玩家
+5.时空管理局长
+袭击内鬼或邪恶中立目标死亡，袭击好人或善良中立后自身死亡
+6.阿一
+标记目标后可使用时空倒流，使目标玩家退回x秒时间
+善良中立
+7.出木杉
+聪慧过人，知晓所有坏人，完成任务后请竭尽所能，跟随你想帮助的阵营获胜
+邪恶中立
+8.胖虎
+可通过武力威胁，招募一位船员，后期可通过武力威胁索要玩家道具，若索要失败则玩家因受伤减速
+9.胖妹
+对在场玩家完成素描，当所有玩家都完成素描后，即可获得胜利
+10.骨川小夫
+可通过财力买空一个玩家的技能
+11.雄助
+杀掉一个人CD减少，不会受到胖虎的武力威胁影响，杀死所有人获胜
+内鬼
+12.神成大叔
+第一次被击杀后获得技能愤怒，移速提升，CD变短，但视野范围内，所有玩家变为黑色（显示红名但队友可击杀）
+13.动物猎人
+拥有指定目标，袭击目标后减少CD
+14.基尔莫亚
+使用技能，所有玩家变为黑色
+15.吉拉米
+击杀一人后CD减少，杀的越多CD减少越快
+附加
+16.露利（链子一方存活到最后即可跟随获胜）
+选择一位玩家与他结为链子，有些时候可以选择牺牲自己保护链子（这种链子不会共死）
+17.世雄（船员附加）
+修理飞船上的破坏的时候，只需要他一个人点开修理界面即可修理完成
+18.赌怪
+可以在会议上赌人职业，成功则对方死亡，失败则自己去世
+19.神枪手（内鬼附加）
+获得远距离击杀击杀人后不会瞬移，但是CD比普通内鬼要多，多出来的CD由房主而定
+20.胆小主义
+无法报告尸体
+1. Doraemon
+You can use skills to give players random props for a limited number of times.
+2. Nobi Nobuo
+You can actively obtain all the props of Doraemon, but each prop can only be used once, and there is a limit on the total number of props used.
+3. shizuka minamoto
+A skilled violin can be used to stun a player in situ.
+4. Dorami
+You can treat a dead player or you can protect the player with a shield.
+5. Director of Time and Space Management
+Attacking a mole or an evil neutral target dies, and attacking a good person or a good neutral will kill itself.
+6. Ayi
+After marking the target, you can use time reversal to make the target player go back x seconds.
+Kindness and neutrality
+7. grow Chinese fir
+You are smart and know all the bad guys. After completing the task, please do your best to win with the camp you want to help.
+Evil neutrality
+8. Pang Hu
+You can recruit a crew member through the threat of force. Later, you can ask for the player's props through the threat of force. If the request fails, the player will slow down due to injury.
+9. Fat girl
+Complete the sketch for the players present. When all the players have completed the sketch, they can win.
+10. Kazuo Furukawa
+You can buy a player's skills through financial resources.
+11. Xiongsuke
+Killing one person reduces the CD, and will not be affected by Pang Hu's threat of force. Killing everyone wins.
+12. Uncle Shen Cheng
+After being killed for the first time, you will gain skill anger, move faster, and shorten the CD, but all players will turn black in the field of vision (red names are displayed but teammates can be killed).
+13. animal hunters
+Have the specified target, and reduce the number of CDs after attacking the target.
+14. Kilmoya
+Using skills, all players turn black.
+15. Gilamy
+After killing one person, the number of CDs decreases, and the more you kill, the faster the number of CDs decreases.
+additional
+16. Luli (one side of the chain can follow to win when it survives to the end)
+Choose a player to form a chain with him, and sometimes you can choose to sacrifice your own protection chain (this chain will not die together)
+17. Shixiong (crew additional)
+When repairing the damage on the spaceship, he only needs to open the repair interface alone to complete the repair.
+18. Gambling monster
+You can gamble on a person's career at the meeting. If you succeed, the other person will die. If you fail, you will die yourself.
+19. sharpshooter (inside ghost attached)
+It won't teleport after getting a long-range kill, but there are more CDs than ordinary spies, and the extra CDs are determined by the owner.
+20. Timidity
+Unable to report the body.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
