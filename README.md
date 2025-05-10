@@ -21,7 +21,7 @@
 ## 关于
 
 TheDoraemon(Roles)是一个适用于Among Us的动漫模组。\
-此模组为Among Us模组的复兴贡献了一份力量\
+此模组为Among Us的复兴贡献了一份力量\
 关于更多TheDoraemon(Roles)请参阅[网站论坛](https://www.txtteam.cn/forum-post/79.html)。
 
 ## 贡献者
