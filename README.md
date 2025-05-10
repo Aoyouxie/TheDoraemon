@@ -27,7 +27,8 @@ TheDoraemon(Roles)是一个适用于Among Us的动漫模组。\
 ## 贡献者
 
 <div align="center">
-  如果您发现模组的bug，请发起一个[issues](https://github.com/Aoyouxie/TheDoraemon/fork)
+  
+  如果您发现模组的bug，请发起一个[iusses](https://github.com/Aoyouxie/TheDoraemon/issues)。
   ,  并详述描写您发现的问题，最好附加日志和截图。
 
   如果您想为模组做出贡献（例如翻译工作）请[fork](https://github.com/Aoyouxie/TheDoraemon/fork)仓库，并作出更改，随后发起一个[Pull requests](https://github.com/Aoyouxie/TheDoraemon/pulls)
@@ -65,7 +66,7 @@ TheDoraemon(Roles)是一个适用于Among Us的动漫模组。\
 任意|道具|任意门|穿梭|视角变为整个地图。点击任意房间可前往该房间|
 任意|道具|穿透环|穿透|从一个房间穿过墙壁到另一个房间|
 任意|道具|隐身斗篷|隐身|使用后将会隐身一定秒数|
-任意|道具|竹蜻蜓||使用后提升速度，此道具为一次性消耗品|
+任意|道具|竹蜻蜓|飞行|使用后提升速度，此道具为一次性消耗品|
 任意|道具|伪装帽|使用后你在别人的视角里面将会消失
 
 
