@@ -1,6 +1,17 @@
 # The Introduction of TheDoraemon(Roles)
 是AmongUs模组之一
 
+> [!NOTE]
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC.\
+> Portions of the materials contained herein are property of Innersloth LLC. \
+> © Innersloth LLC.
+
+
+> [!note]
+> 本模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。\
+> 此处包含的部分材料是Innersloth LLC的财产。\
+> © Innersloth LLC.
+
 </div>
 
 > [!important]
@@ -9,10 +20,7 @@
 > [!important]
 > 后续GitHub将会被运用在非中国大陆用户，将会保留英语，中国大陆玩家请访问[网站论坛](https://www.txtteam.cn/forum-post/79.html)
 
-> [!note]
-> 本模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。\
-> 此处包含的部分材料是Innersloth LLC的财产。\
-> © Innersloth LLC.
+
 
 > [!note]
 > 本模组不隶属于TXTteam。\
