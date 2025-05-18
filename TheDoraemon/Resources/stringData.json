@@ -1,0 +1,26 @@
+{
+    "TDRSettings": {
+        "0": "TheDoraemonSettings",
+        "13": "哆啦A梦模组设置"
+    },
+    "timeSpaceManager": {
+        "0": "TimeSpaceManager",
+        "13": "时空管理者"
+    },
+    "timeSpaceManagerIntroDesc": {
+        "0": "Management TimeSpace",
+        "13": "管理时空"
+    },
+    "timeSpaceManagerShortDesc": {
+        "0": "Management TimeSpace",
+        "13": "管理时空"
+    },
+    "timeSpaceManagerCooldown": {
+        "0": "TimeSpaceManager Cooldown",
+        "13": "击杀冷却"
+    },
+    "timeSpaceManagerCanKillNeutrals": {
+        "0": "TimeSpaceManager Can Kill Neutrals",
+        "13": "时空管理者可以击杀中立"
+    }
+}

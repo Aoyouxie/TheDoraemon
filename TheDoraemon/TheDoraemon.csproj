@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Version>1.3.3</Version>
+        <Description>TheDoraemon</Description>
+        <Authors>遨游屑</Authors>
+		<LangVersion>latest</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+        <PlatformTarget>x86</PlatformTarget>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+      <LangVersion>preview</LangVersion>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+      <LangVersion>preview</LangVersion>
+    </PropertyGroup>
+	<PropertyGroup>
+		<DebugSymbols>true</DebugSymbols>
+		<DebugType>embedded</DebugType>
+	</PropertyGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Include="Resources\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Reactor" Version="2.4.0-ci.344" />
+        <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.735" />
+        <PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.3.31">
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1" PrivateAssets="all" />
+    </ItemGroup>
+   
+    <Target Name="Date" BeforeTargets="BeforeBuild">  <!--Will make the compile time available s.t. we can let betas expire-->
+    <WriteLinesToFile File="$(IntermediateOutputPath)gen.cs" Lines="static partial class Builtin { public static long CompileTime = $([System.DateTime]::UtcNow.Ticks) %3B }" Overwrite="true" />
+    <ItemGroup>
+        <Compile Include="$(IntermediateOutputPath)gen.cs" />
+    </ItemGroup>
+    </Target>
+
+    <Target Name="CopyCustomContent" AfterTargets="AfterBuild" Condition="Exists('$(AmongUsLatest)/BepInEx/plugins/')">
+        <Message Text="Second occurrence" />
+        <Copy SourceFiles="$(ProjectDir)\bin\$(Configuration)\net6.0\TheDoraemon.dll" DestinationFolder="$(AmongUsLatest)/BepInEx/plugins/" />
+    </Target>
+</Project>
