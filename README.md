@@ -15,8 +15,9 @@
 > © Innersloth LLC.
 
 > [!note]
-> 本模组不隶属于TXTteam。\
-> 但被TXTteam提供了协助，其模组作者为TXTteam成员。
+> 本模组隶属于ThreeXThreeTeam，模组主要开发者为[遨游屑](https://github.com/Aoyouxie)。\
+> 其余制作组成员，详见[制作人员名单](creators.md)。\
+> 此外，仍有一些非ThreeXThreeTeam成员为其提供了帮助，详见[贡献者名单](contributor.md)。
 
 ## 关于
 
