@@ -1,6 +1,6 @@
 <div align="center">
   
-# :sparkling_heart: 贡献者 :sparkling_heart:
+# :sparkling_heart: 参考模组 :sparkling_heart:
 
 简体中文|[繁體中文](contributor_TC.md)|[English]()
 
