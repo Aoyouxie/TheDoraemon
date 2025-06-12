@@ -2,7 +2,7 @@
   
 # :sparkling_heart: 贡献者 :sparkling_heart:
 
-简体中文|[English]()
+简体中文|[繁体中文](contributor_TC.md)|[English]()
 
   </br></br>
   <h3>:muscle: <a href="https://github.com/dabao40/TheOtherRolesGMIA">TheOtherRolesGMIA</a> :muscle:</h3>
