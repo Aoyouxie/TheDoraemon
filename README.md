@@ -1,13 +1,19 @@
+<div align="center">
+
 # The Introduction of TheDoraemon(Roles)
+
+简体中文|[繁體中文]()|[English]()
+
 是AmongUs模组之一
 
 </div>
 
 > [!important]
-> 由于开发者学业原因，您的issue可能无法得到及时的答复，请谅解！
+> 由于开发者学业原因，您的[issue](https://github.com/Aoyouxie/TheDoraemon/issues)可能无法得到及时的答复，请谅解！
 
 > [!important]
-> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，中国大陆玩家请访问[网站论坛](https://www.txtteam.cn/forum-post/79.html)
+> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，中国大陆玩家请访问[网站论坛](https://www.txtteam.cn/forum-post/79.html)\
+> 正式性的官方网站将会在1.0.0.0发布时跟随更新
 
 > [!note]
 > 本模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。\
@@ -19,27 +25,33 @@
 > 其余制作组成员，详见[制作人员名单](creators.md)。\
 > 此外，仍有一些非ThreeXThreeTeam成员为其提供了帮助，详见[贡献者名单](contributor.md)。
 
+<div align="center">
+
 ## 关于
 
 TheDoraemon(Roles)是一个适用于Among Us的动漫模组。\
 此模组为Among Us的复兴贡献了一份力量\
-关于更多TheDoraemon(Roles)请参阅[网站论坛](https://www.txtteam.cn/forum-post/79.html)。
+
 
 ## 贡献者
 
-<div align="center">
+
   
-  如果您发现模组的bug，请发起一个[iusses](https://github.com/Aoyouxie/TheDoraemon/issues)。
-  ,  并详述描写您发现的问题，最好附加日志和截图。
+  如果您发现模组的bug，请发起一个[issue](https://github.com/Aoyouxie/TheDoraemon/issues) ，
+  并详述描写您发现的问题，最好附加日志和截图。
 
-  如果您想为模组做出贡献（例如翻译工作）请[fork](https://github.com/Aoyouxie/TheDoraemon/fork)仓库，并作出更改，随后发起一个[Pull requests](https://github.com/Aoyouxie/TheDoraemon/pulls)
-</div>
+  如果您想为模组做出贡献（例如翻译工作）请[fork](https://github.com/Aoyouxie/TheDoraemon/fork)仓库，并作出更改，
+  随后发起一个[Pull requests](https://github.com/Aoyouxie/TheDoraemon/pulls)
 
-# 官方网站：txtteam.cn
 
-所有对于中国大陆玩家的自动更新都会优先通过txtteam.cn
+
+# 官方网站
+
+目前没有正式的官方网站，Wiki等
 
 # 职业和道具
+
+</div>
 
 阵营|类型|职业&道具名|技能|效果|胜利方式|
 ----|----|------|----|----|--------|
