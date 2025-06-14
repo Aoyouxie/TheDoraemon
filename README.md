@@ -2,7 +2,7 @@
 
 # The Introduction of TheDoraemon(Roles)
 
-简体中文|[繁體中文]()|[English]()
+[简体中文]()|[繁體中文]()|[English]()|[Japanese]()
 
 是AmongUs模组之一
 
