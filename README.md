@@ -12,7 +12,7 @@
 > 由于开发者学业原因，您的[issue](https://github.com/Aoyouxie/TheDoraemon/issues)可能无法得到及时的答复，请谅解！
 
 > [!important]
-> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，中国大陆玩家请访问[网站论坛](https://www.txtteam.cn/forum-post/79.html)\
+> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，请中国大陆玩家用户去往QQ群：947583930获取更新
 > 正式性的官方网站将会在1.0.0.0发布时跟随更新
 
 > [!note]
