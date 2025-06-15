@@ -12,8 +12,9 @@
 > 由于开发者学业原因，您的[issue](https://github.com/Aoyouxie/TheDoraemon/issues)可能无法得到及时的答复，请谅解！
 
 > [!important]
-> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，请中国大陆玩家用户去往QQ群：947583930获取更新
-> 正式性的官方网站将会在1.0.0.0发布时跟随更新
+> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，请中国大陆玩家用户去往QQ群：947583930获取更新内容
+> 我们目前也有[官方网站](https://TheDoraemon.dpdns.org)
+> 不过目前暂不稳定，不推荐查阅
 
 > [!note]
 > 本模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。\
