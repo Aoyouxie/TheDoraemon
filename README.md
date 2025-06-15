@@ -21,7 +21,7 @@
 > © Innersloth LLC.
 
 > [!note]
-> 本模组不隶属于任何团队，模组主要开发者为[遨游屑]，主要设计者为[红花不是韭菜花](https://github.com/Aoyouxie)
+> 本模组不隶属于任何团队，模组主要开发者为[遨游屑](https://github.com/Aoyouxie)，主要设计者为[红花不是韭菜花](https://github.com/Red-flower114514)
 > 其余制作组成员，详见[制作人员名单](creators.md)。\
 > 另外，仍有一些人为模组做出了贡献，详见[贡献者名单](helper.md)。\
 > 有关于我们参考的模组，详见[参考模组名单](contributor.md)。
