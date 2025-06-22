@@ -12,7 +12,6 @@
 > 由于开发者学业原因，您的[issue](https://github.com/Aoyouxie/TheDoraemon/issues)可能无法得到及时的答复，请谅解！
 
 > [!important]
-> 后续GitHub将会被运用在非中国大陆用户，将会保留英语，请中国大陆玩家用户去往QQ群：947583930获取更新内容
 > 我们目前也有官方网站，不过目前暂不稳定，且没有进行网站布置，所以暂不公布
 
 > [!note]
@@ -21,7 +20,8 @@
 > © Innersloth LLC.
 
 > [!note]
-> 本模组主要开发者为[遨游屑](https://github.com/Aoyouxie)，主要设计者为[红花不是韭菜花](https://github.com/Red-flower114514)
+> 本模组主要开发者为[遨游屑](https://github.com/Aoyouxie)，\
+> 主要设计者为[红花不是韭菜花](https://github.com/Red-flower114514)
 > 其余制作组成员，详见[制作人员名单](creators.md)。\
 > 另外，仍有一些人为模组做出了贡献，详见[贡献者名单](helper.md)。\
 > 有关于我们参考的模组，详见[参考模组名单](contributor.md)。
